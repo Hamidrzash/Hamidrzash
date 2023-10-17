@@ -4,10 +4,6 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
-<p align="center">
-	<iframe src="https://wenerd.ir/snow/" height="200px" width="100%"></iframe>
-</p>
-
 <!--
 **Hamidrzash/Hamidrzash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
